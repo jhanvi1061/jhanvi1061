@@ -4,9 +4,9 @@
 [![GitHub jhanvi1061](https://img.shields.io/github/followers/jhanvi1061?label=follow&style=social)](https://github.com/jhanvi1061)
 
 ``` javascript
-  const JHANVI = {
+  JHANVI = {
     pronouns: "She" | "Her",
-    bio: "App Developer.",
+    bio: "App Developer",
     languages: [C++, Dart, Python, HTML, CSS],
     frameworks: [Flutter],
     databse: [MySQL],

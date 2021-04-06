@@ -2,3 +2,13 @@
 
 [![Linkedin: jhavni1810](https://img.shields.io/badge/-Jhanvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhanvi1810/)](https://www.linkedin.com/in/jhanvi1810/)
 [![GitHub jhanvi1061](https://img.shields.io/github/followers/jhanvi1061?label=follow&style=social)](https://github.com/jhanvi1061)
+
+``` javascript
+  const JHANVI = {
+    pronouns: "She" | "Her",
+    bio: "App Developer.",
+    languages: [C++, Dart, Python, HTML, CSS],
+    frameworks: [Flutter],
+    databse: [MySQL],
+  }
+```

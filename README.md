@@ -9,6 +9,6 @@
     bio: "App Developer",
     languages: [C++, Dart, Python, HTML, CSS],
     frameworks: [Flutter],
-    databse: [MySQL],
+    database: [MySQL],
   }
 ```
